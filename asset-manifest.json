@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://agrawalshanu708.github.io/csb-dzm60/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://agrawalshanu708.github.io/csb-dzm60/static/js/main.65357573.chunk.js",
+    "main.js.map": "https://agrawalshanu708.github.io/csb-dzm60/static/js/main.65357573.chunk.js.map",
+    "runtime-main.js": "https://agrawalshanu708.github.io/csb-dzm60/static/js/runtime-main.42c1b212.js",
+    "runtime-main.js.map": "https://agrawalshanu708.github.io/csb-dzm60/static/js/runtime-main.42c1b212.js.map",
+    "static/js/2.eed3c6af.chunk.js": "https://agrawalshanu708.github.io/csb-dzm60/static/js/2.eed3c6af.chunk.js",
+    "static/js/2.eed3c6af.chunk.js.map": "https://agrawalshanu708.github.io/csb-dzm60/static/js/2.eed3c6af.chunk.js.map",
+    "index.html": "https://agrawalshanu708.github.io/csb-dzm60/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://agrawalshanu708.github.io/csb-dzm60/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.eed3c6af.chunk.js.LICENSE.txt": "https://agrawalshanu708.github.io/csb-dzm60/static/js/2.eed3c6af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42c1b212.js",
+    "static/js/2.eed3c6af.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.65357573.chunk.js"
+  ]
+}
